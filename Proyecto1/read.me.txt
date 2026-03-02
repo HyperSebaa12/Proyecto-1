@@ -1,0 +1,2 @@
+Este programa gestiona una red biológica de interacciones proteicas mediante un grafo, permitiendo visualizar la estructura y detectar "Hubs" o proteínas críticas que actúan como centros de conexión.
+Además, utiliza algoritmos de búsqueda (BFS) para identificar grupos aislados de proteínas y el algoritmo de Dijkstra para calcular la ruta de comunicación más eficiente entre dos moléculas.
